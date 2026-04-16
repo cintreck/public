@@ -6,25 +6,25 @@ With sufficient time elapsed, a given item can move down a level, becoming more 
 ## Safe
 Consumption doesn't worsen condition.
 
-- Salt
 - Potatoes
 - Pasta
 - Buckwheat
-- Beef
 - Cucumbers
 - Green Beans
-- Olive Oil
-- Sunflower Oil
 
 ## Moderate
 Consumption can worsen condition short-term.
 
+- Salt
 - Lettuce
+- Cauliflower
 - Chicken
 - Turkey
 - Eggs
+- Beef
+- Olive Oil
+- Sunflower Oil
 - Broccoli
-- Cauliflower
 - Cooked Carrots
 
 ## Risky
