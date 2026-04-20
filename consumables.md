@@ -24,7 +24,6 @@ Consumption can worsen condition short-term.
 - Beef
 - Olive Oil
 - Sunflower Oil
-- Broccoli
 - Cooked Carrots
 
 ## Risky
@@ -34,6 +33,8 @@ Consumption can be immediately threatening and worsens condition short-term.
 - Butter
 - Nuts
 - Bell Peppers
+- Broccoli
+- Corn
 - Pears
 - Apples
 - Carrots
